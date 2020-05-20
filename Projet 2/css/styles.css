@@ -1,0 +1,102 @@
+img{
+  height: 400px;
+
+}
+body{
+  background: linear-gradient(#FAB20B,#F7462E);
+  margin:0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+}
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+    display: none;
+}
+
+div:last-child{
+  display: none;
+}
+#categorie{
+  margin-top: 100px;
+  width: 100%;
+
+
+
+}
+#categorie div{
+  margin: auto;
+  margin-top: 50px;
+
+
+}
+
+
+.reseau{
+
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+a{
+  color: black;
+}
+
+a:hover{
+  text-decoration: none;
+
+}
+
+#T1{
+  position: absolute;
+  top: 200px;
+  width: 100%;
+
+  font-size: 200px;
+  background: linear-gradient(#FAB20B,#F7462E);
+  text-align: center;
+  font-family: 'Chango', cursive;
+  font-style: italic;
+  font-size: 500px;
+  }
+
+
+}
+#categorie div img{
+  border: 1px solid black;
+  /*box-shadow: 10px 10px 10px 10px black;*/
+
+}
+.cat1{
+
+  width: 420px;
+  height: 420px;
+  background-color: #465;
+
+}
+.cat2{
+  width: 420px;
+  height: 420px;
+  background-color: #565;
+}
+.cat3{
+  width: 420px;
+  height: 420px;
+  background-color: #665;
+}
+.cat4{
+  width: 420px;
+  height: 420px;
+  background-color: #165;
+}
+.cat5{
+  width: 420px;
+  height: 420px;
+  background-color: #205;
+}
+.cat6{
+  width: 420px;
+  height: 420px;
+  background-color: #268;
+}

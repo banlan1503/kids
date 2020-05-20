@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+   background: linear-gradient(#FAB20B,#F7462E);
+}
+
+.bandeau img{
+
+  height: 350px;
+}
+#T1{
+  position: absolute;
+  top: 200px;
+  width: 100%;
+
+  font-size: 200px;
+  background: linear-gradient(#FAB20B,#F7462E);
+  text-align: center;
+  font-family: 'Chango', cursive;
+  font-style: italic;
+  font-size: 500px;
+  }
+
+.produits{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.produits .card{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+a:hover{
+  text-decoration: none;
+}
+a{
+  color: black;
+}
